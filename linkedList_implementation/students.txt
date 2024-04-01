@@ -1,0 +1,4 @@
+abd,21,CS
+amro,20,EE
+ahmad,18,EE
+ali,11,child
